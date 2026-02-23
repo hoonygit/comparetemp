@@ -1,0 +1,5 @@
+{
+  "name": "Sensor Data Analytics Dashboard",
+  "description": "Visualize and analyze soil sensor data (Moisture, EC, Temperature) from CSV files with smart temporal aggregation.",
+  "requestFramePermissions": []
+}
